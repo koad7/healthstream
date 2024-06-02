@@ -1,0 +1,6 @@
+pandas
+confluent-kafka
+pyspark
+pytest
+pytest-mock
+python-dotenv

@@ -1,0 +1,1 @@
+config = {"bootstrap.servers": "kafka-1:19092"}
